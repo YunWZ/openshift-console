@@ -48,7 +48,7 @@
   "Pods": "Pod",
   "Deployments": "部署",
   "DeploymentConfigs": "部署配置",
-  "StatefulSets": "有状态级",
+  "StatefulSets": "有状态集",
   "Secrets": "Secret",
   "ConfigMaps": "配置映射",
   "CronJobs": "CronJobs",
